@@ -1,9 +1,9 @@
 <h1 align="center">
-    Desafio Hook Carrinho de Compra
+    Desafio Refatoração do Projeto P/ Typescript
 </h1>
 
 <h4 align="left">
-Dando um upgrade nos meus estudos na linguagem typescript e criando hooks, foram feitos pequenas alterações na estilização e foi criado componentes novos coforme proposto no modulo anterior quando necessário para melhor a organização do projeto e foram criados com o propósito de melhor a manutenção do código para os proximos desenvolvedor que trabalhar no projeto.
+Dando um upgrade nos meus estudos na linguagem typescript e reaftorando codigo javascript para typescript, foram feitos grandes alteraçãp na estrutura do codigo novos coforme proposto no modulo anterior quando necessário para melhor a organização do projeto e foram criados com o propósito de melhor a manutenção do código para os proximos desenvolvedor que trabalhar no projeto.
 </h4>
 
 <p align="center">
@@ -13,16 +13,9 @@ Dando um upgrade nos meus estudos na linguagem typescript e criando hooks, foram
 </p>
 
 <h4 align="left">
-  Video do desafio carrinho de compra.
+  Imagen do desafio reafatoração do projeto
 </h4>
-Apresentação do desafio(https://youtu.be/_TVi6Dv9cXY)
-
-<h4 align="left">
-  Imagen do desafio carrinho de compra.
-</h4>
-<a href="https://imgur.com/VF62IYW"><img src="https://i.imgur.com/VF62IYW.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/iSQsxHZ"><img src="https://i.imgur.com/iSQsxHZ.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/jAeeOfR"><img src="https://i.imgur.com/jAeeOfR.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/nNjtk9Q"><img src="https://i.imgur.com/nNjtk9Q.png" title="source: imgur.com" /></a>
 
 ## :rocket: Tecnologias usadas no desenvolvimento;
 
@@ -38,7 +31,6 @@ No frontend optamos por usar as tecnologais descritas abaixo, pela expressivida 
 -  [Polished](https://github.com/styled-components/polished)
 -  [Json Server](https://github.com/typicode/json-server)
 -  [Styled-components](https://styled-components.com/)
--  [React-toastify](https://fkhadra.github.io/react-toastify/introduction)
 
 ## :information_source: Como usar
 
@@ -47,10 +39,10 @@ Para criar e executar esta aplicação frontend, você precisa executar o seguin
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/SilvaneiMartins/desafio-carrinho-de-compras
+$ git clone https://github.com/SilvaneiMartins/desafio-refactoring-classes-ts
 
 # Acessar a pasta criada pelo repositório
-$ cd desafio-carrinho-de-compras
+$ cd desafio-refactoring-classes-ts
 
 # Instalar as dependências do sistema
 $ yarn install
@@ -71,7 +63,7 @@ $ yarn server
 ```
 
 ## :memo: License
-Este desafio está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/desafio-carrinho-de-compras/blob/master/LICENSE) for more information.
+Este desafio está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/desafio-refactoring-classes-ts/blob/master/LICENSE) for more information.
 
 ---
 
